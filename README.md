@@ -5,15 +5,9 @@ Nesta atividade, você fazer exercícios de programação para vai praticar a ma
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
+- Nome: Daniel Heber de Souza Godinho
+- Matricula: 909411
 
 ## Prints do console do navegador
 
-<<  COLOQUE A IMAGEM - LISTAGEM DE TÍTULOS - AQUI >>
-
-<<  COLOQUE A IMAGEM - CÁLCULO DE MÉDIAS - AQUI >>
-
-<<  COLOQUE A IMAGEM - RESUMO DE VERIFICAÇÕES (SOME E EVERY) - AQUI >>
-
-<<  COLOQUE A IMAGEM - PÁGINA COM O RESUMO - AQUI >>
+![alt text](image.png)
